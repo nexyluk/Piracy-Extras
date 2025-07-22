@@ -1,4 +1,4 @@
-# Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Piracy (but updated?) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of arrrrrrrrr!
 
@@ -143,6 +143,266 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Telegram Piracy](#telegram-piracy)
 - [Miscellaneous](#miscellaneous)
 
+### Streaming Sites
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
+- [⭐ VegaMovies - Movies / TV / Anime / 4K](https://vegamovies.yoga/)
+- [⭐ Rive - Movies / TV / Anime](https://rivestream.org/) [(Second link from Rive, click here)](https://rivestream.net/)
+- [⭐ 1Shows - Movies / TV / Anime / Auto Next](https://www.1shows.ru/) [(Also known as RgShows, click here)](https://www.rgshows.me/)
+- [[⭐ P-Stream - Movies / TV / Anime / Auto-Next / Watch Parties ]](https://pstream.mov/) [(Also known as Instances, click here)](https://erynith.github.io/movie-web-instances/)
+- [⭐ Cinemaos - Movies / TV / Anime / Auto-Next / Watch Parties / / Discord](https://cinemaos.live/) [(Second link from Cinemaos, click here)](https://cinemaos-v3.vercel.app/)
+- [⭐ Pahe - Movies / TV / Anime / 4K / Ad-Bypass (Must Have)](https://pahe.ink/)
+- [⭐ MovieParadise - Movies / TV / Sign-Up Code (Important)](https://movieparadise.org/)
+- [⭐ Drama Day - Asian Drama](https://movieparadise.org/)
+- [⭐ MKVDrama - Asian Drama](https://mkvdrama.org/)
+- [⭐ Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr) [(2nd CSE link, click here)](https://cse.google.com/cse?cx=89f2dfcea452fc451) [(3rd CSE link, click here)](https://cse.google.com/cse?cx=aab218d0aa53e3578)
+- [9xFlix - Movies / TV / Anime](https://www.9xflix.me/)
+
+
+#### HD Streaming
+- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
+- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
+- [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
+- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
+- [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country-specific films/series
+- [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
+- [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
+- [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
+- [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
+- [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
+- [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
+- [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
+- [123Movies](https://123movies.website/) Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
+- [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
+- [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
+- [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
+- [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
+- [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
+- [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
+- [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
+- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
+- [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
+
+#### Big Media Libraries
+- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
+- [5Movies](http://5movies.to/) Large collection dating as far back as 1990
+- [2TwoMovies](https://two-movies.net/) Large collection dating as far back as 1895
+- [CafeHulu](http://cafehulu.com/) Collection of movies/TV shows + many foreign films
+- [Solarmovie.fm](http://www.solarmovie.fm/) or [Solarmovies.cc](https://solamovies.cc/) Plenty of movies and TV shows
+- [Afdah](http://afdah.to/) Large collection dating as far back as 1920
+- [YouTube](http://YouTube.com/) Contains very old films/vlogs/tutorials
+- [WorldSrc](https://worldsrc.org) Movies, software, apps, games, music, and images available for fast direct download + torrents.
+
+#### TV
+- [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
+- [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
+
+#### Anime
+- [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
+- [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
+- [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
+- [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive (no longer updated, site is still accessible)
+- [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
+- [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
+- [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
+- [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
+- [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
+- [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
+- [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
+- [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
+- [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
+- [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
+- [animeEncodes](https://www.animencodes.com/)
+- [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
+- [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
+- [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
+- [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
+- [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
+- [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
+- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+
+#### Cartoons
+- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
+- [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
+- [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
+- [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
+- [Toonova](http://www.toonova.net/) Another site for streaming cartoons
+- [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
+- [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
+
+#### Sports Streaming
+- [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
+- [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
+- [/r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) Reddit - NCAABBall streams
+- [/r/CFBstreams](https://www.reddit.com/r/CFBstreams/) Reddit - CFB streams
+- [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
+- [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
+- [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
+- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
+- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
+- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
+- [Cricfree](https://crickfree.org/) Offers popular sports streams
+- [VIPBox](https://www.vipbox.live/) Many sport streams, TV, friendly UI
+- [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
+- [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
+- [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
+- [720pStream](http://www.720pstream.me/) Popular sports only, simple design
+- [footybite](https://www.footybite.com/) Soccer streaming site.
+
+#### Specialty Sites
+- [Einthusan](https://einthusan.tv/intro/) Foreign
+- [Dramago](http://www.dramago.com/) Drama movies/series
+- [WatchAsian](https://www2.watchasian.co/) Foreign
+- [Layarkaca](http://layarkaca21.ru/) Foreign
+- [DramaCool](http://www1.dramacoolfirst.com/) Foreign
+- [Daxiv Video](https://daxiv.com/) Primarily Chinese content
+- [KingsofHorror](https://www.YouTube.com/user/TheKingsofHorror/) YouTube Horror
+- [MutantSorority](https://www.YouTube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) YouTube horror
+- [TromaMovies](https://www.YouTube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) YouTube horror
+- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with nudity
+- [Rulu](https://www.rulu.co/) YouTube Red series
+- [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
+- [Archive.org](https://archive.org/) Old movies
+- [MioMio](http://www.miomio.tv/) Asian TV shows/anime
+
+#### Third Party Hosts
+- [MovieZion](https://www.nicemoviezion.pro/) Openload
+- [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
+- [MovieJagg](https://www.coolmoviejagg.pro/) Openload
+- [IWannaWatch](https://www.iwannawatch.is/) Openload, Streamango
+- [UWatchFree](https://www.uwatchfree.tv/) VidPlayer, ViDeoZa
+- [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW
+- [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2
+- [Openloadmovie](https://openloadmovie.ws/) Openload (some outdated links)
+- [cine.to](https://cine.to/) Openload, Vivo, Streamcloud, Flashx, Streamango
+- [cinebloom](https://www2.cinebloom.com) Openload, Streamango
+- [HDEUROPIX](https://topeuropix.net/) Openload, Rapidvideo
+- [openloadmovies.net](https://openloadmovies.net/) OpenLoad
+- [HD MOVIES](https://hdm.to/) OpenLoad, Streamango, Streamcherry
+- [VodLocker](https://vodlocker.tv/) Openload, Streamango
+- [StreamCouch](https://www2.streamcouch.com/) Openload, Streamango
+- [Qwemovies](https://www3.qwemovies.com/) OpenLoad
+- [movies2k](http://www.movie2k.st) Openload, Streamango, Streamcloud, Rapidvideo, Upvid
+- [xPau.se](http://xpau.se/) Googledrive
+- [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (subtitles)
+- [MegaShare](http://megashare9.su) Openload
+- [XMovies8](https://xmovies8.ru/) Openload, FServer, PTServer
+- [IceFilms](http://www.icefilms.info/) Openload, FileUpload
+- [FilmXY](https://www.filmxy.nl/) RapidVideo, Vidoza, Uptostream (offers download links)
+- [1Movies](http://1movies.nl) Openload, FServer
+- [WatchFullMovie](http://watchfullmovie.co) Openload
+- [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
+- [WatchFree](https://watchfree.at/) Openload, FServer
+- [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
+- [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
+
+## Media Centre Applications
+- [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
+- [Emby](https://emby.media/) a personal media server with apps on just about every device.
+- [Kodi](https://kodi.tv/) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
+- [OpenPHT](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
+- [Viewscreen](https://github.com/viewscreen/viewscreen) a personal video streaming server
+- [Streama](https://github.com/streamaserver/streama) Self-hosted streaming media server.
+- [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
+- [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
+- [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
+- [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
+- [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
+- [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
+- [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
+- [jellyfin](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
+
+## Stremio
+- [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
+- [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
+- [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
+- [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) An application that allows you to download any stream from Stremio (as opposed to just stream it). Also includes an internal add-on that lets users watch their downloaded content in Stremio while being offline
+- [Stremio - Watch together with friends](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
+- [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) A guide explaining how to control Stremio with your phone
+- [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) A website that allows users to customize catalogs in Stremio
+
+## Plex
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
+- [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
+- [PGBlitz.com](https://pgblitz.com/) :star2: Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD Space (Former Name: PlexGuide)
+- [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
+- [PlexPi](http://plexpi.com/) Plex Media Server for Raspberry Pi 3
+
+### Plex Plugins
+- [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
+- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
+- [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
+- [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
+- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
+- [IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
+- [HDGrandSlam.bundle](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
+- [HDHRViewerV2.bundle](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
+- [SS Plex](https://mikew.github.io/ss-plex.bundle/) Imagine if all the media scattered around the internet could be found in one collection.
+- [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
+- [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) Add what you are watching on Plex to trakt.tv
+- [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) Textless movie posters from Moviemania.io
+- [lmwt-kiss.bundle](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
+- [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
+- [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
+- [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
+- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) A website dedicated to Plex Plugins.
+
+### Plex Requests
+- [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
+- [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
+- [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+- [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
+
+### Plex Scripts and Tools
+- [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
+- [JBOPS](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
+- [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) CLI tool to fix subtitles needed by Plex Media Center
+- [plex_autoscan](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
+- [plexupdate](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
+- [plex2netflix](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
+- [plexReport](https://github.com/bstascavage/plexReport) Scripts to generate a weekly email of new additions to Plex
+- [plex-sync](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
+- [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
+- [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) Uses the metadata held in the PlexMediaServer to tag media files
+- [PlexEmail](https://github.com/jakewaldron/PlexEmail) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
+- [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
+- [PlexAuth](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
+- [Phlex](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
+- [Plex Redirect](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
+- [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
+- [goplaxt](https://github.com/XanderStrike/goplaxt/) Full rewrite of the above, written in Go and deployable with Docker
+- [plxdwnld](https://piplong.run/plxdwnld/) Bookmarklet for downloading original files from the Plex web interface
+- [Kitana](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
+- [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
+- [NowShowing](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
+- ["My (scripted) solution to having a single Movies library for 4k and non-4k."](https://www.reddit.com/r/PleX/comments/afs8m9/my_scripted_solution_to_having_a_single_movies/) Post by /u/spazatk
+- [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
+- [Gaps](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
+- [PlexRecs](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
+- ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
+- [Varken](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+
+### Plex Shares
+- [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
+- [Elysium](https://elysium.to/) Plex media streaming service
+
+### Plex Transcoding
+- [kube-plex](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
+- [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
+- [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
+- [nvidia-patch](https://github.com/keylase/nvidia-patch) Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
+
+### Plex Logging and Metrics
+- [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
+- [plexWatch](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
+- [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
+
+### Plex Clients
+- [RasPlex](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
+- [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
+- [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
+
 ## VPNs
 
 ### VPN Guides and Tutorials
@@ -240,35 +500,12 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
 
-### Windows 10 Privacy
-- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
-- [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
-- [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
-- [WPD](https://wpd.app/) The real privacy dashboard for Windows
-- [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
-- [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
-- [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
-
 ## Email
 - [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
 - [Tutanota](https://tutanota.com/) Secure, open source email service
-
-## Decentralised Networks
-- [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
-- [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
-- [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
-- [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
-- [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
-- [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
-
-## Operating Systems
-- [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
-- [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
-
+- 
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
 - [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
@@ -298,43 +535,6 @@ for any IP address.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
 - [Bravo List](http://www.bvlist.com/) Tracker directory
-
-#### Private Trackers
-- [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
-- [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
-- [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps, etc) Open signups on the 1st-2nd every month.
-- [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
-- [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
-- [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
-- [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
-- [Blutopia](https://blutopia.xyz) (BLU) Blutopia is a private tracker for HD movies and HD TV shows.
-- [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
-- [Filelist](https://filelist.io/) (FL) Large Romanian general tracker with mostly English content. No RAR files allowed. (Scene torrents are unrared, and then allowed.)
-- [GazelleGames](https://gazellegames.net/login.php) (GGn) Currently the largest private tracker for games.
-- [HD4Free](https://hd4.xyz) (HD4F) HD4Free is a general HD tracker with a good range of content. It is a ratioless tracker so it is great for beginners. Note that any adult content/porn is strictly prohibited there.
-- [HD-Forever](https://hdf.world/) (HD-F) HD-Forever is a French private tracker for HD movies.
-- [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. Good tracker for beginners.
-- [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
-- [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on Asian music.
-- [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
-- [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
-- [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
-- [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
-- [PolishTracker](https://pte.nu/) (PT) PolishTracker is the oldest private Polish tracker existing to this day
-- [PolishSource](https://polishsource.cz/) (PS) PolishSource is a big private Polish ratio-less tracker
-- [PrivateHD](https://privatehd.to/) (PhD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
-- [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
-- [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
-- [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
-- [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
-- [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
-- [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
-- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
-- [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
-- [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
-- [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
-- [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know to pass the RED interview.
-- [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
@@ -701,254 +901,6 @@ premium services
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
 - [andesite](https://github.com/nektro/andesite) Easily manage access to your open directory through OAuth2
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
-
-### Streaming Sites
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
-
-#### HD Streaming
-- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
-- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
-- [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
-- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
-- [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country-specific films/series
-- [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
-- [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
-- [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
-- [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
-- [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
-- [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
-- [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
-- [123Movies](https://123movies.website/) Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
-- [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
-- [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
-- [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
-- [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
-- [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
-- [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
-- [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
-- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
-- [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
-
-#### Big Media Libraries
-- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
-- [5Movies](http://5movies.to/) Large collection dating as far back as 1990
-- [2TwoMovies](https://two-movies.net/) Large collection dating as far back as 1895
-- [CafeHulu](http://cafehulu.com/) Collection of movies/TV shows + many foreign films
-- [Solarmovie.fm](http://www.solarmovie.fm/) or [Solarmovies.cc](https://solamovies.cc/) Plenty of movies and TV shows
-- [Afdah](http://afdah.to/) Large collection dating as far back as 1920
-- [YouTube](http://YouTube.com/) Contains very old films/vlogs/tutorials
-- [WorldSrc](https://worldsrc.org) Movies, software, apps, games, music, and images available for fast direct download + torrents.
-
-#### TV
-- [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
-- [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
-
-#### Anime
-- [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
-- [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
-- [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
-- [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive (no longer updated, site is still accessible)
-- [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
-- [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
-- [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
-- [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
-- [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
-- [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
-- [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
-- [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
-- [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
-- [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
-- [animeEncodes](https://www.animencodes.com/)
-- [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
-- [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
-- [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
-- [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
-- [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
-- [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
-- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
-
-#### Cartoons
-- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
-- [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
-- [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
-- [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
-- [Toonova](http://www.toonova.net/) Another site for streaming cartoons
-- [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
-- [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
-
-#### Sports Streaming
-- [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
-- [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
-- [/r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) Reddit - NCAABBall streams
-- [/r/CFBstreams](https://www.reddit.com/r/CFBstreams/) Reddit - CFB streams
-- [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
-- [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
-- [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
-- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
-- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
-- [Cricfree](https://crickfree.org/) Offers popular sports streams
-- [VIPBox](https://www.vipbox.live/) Many sport streams, TV, friendly UI
-- [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
-- [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
-- [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
-- [720pStream](http://www.720pstream.me/) Popular sports only, simple design
-- [footybite](https://www.footybite.com/) Soccer streaming site.
-
-#### Specialty Sites
-- [Einthusan](https://einthusan.tv/intro/) Foreign
-- [Dramago](http://www.dramago.com/) Drama movies/series
-- [WatchAsian](https://www2.watchasian.co/) Foreign
-- [Layarkaca](http://layarkaca21.ru/) Foreign
-- [DramaCool](http://www1.dramacoolfirst.com/) Foreign
-- [Daxiv Video](https://daxiv.com/) Primarily Chinese content
-- [KingsofHorror](https://www.YouTube.com/user/TheKingsofHorror/) YouTube Horror
-- [MutantSorority](https://www.YouTube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) YouTube horror
-- [TromaMovies](https://www.YouTube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) YouTube horror
-- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with nudity
-- [Rulu](https://www.rulu.co/) YouTube Red series
-- [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
-- [Archive.org](https://archive.org/) Old movies
-- [MioMio](http://www.miomio.tv/) Asian TV shows/anime
-
-#### Third Party Hosts
-- [MovieZion](https://www.nicemoviezion.pro/) Openload
-- [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
-- [MovieJagg](https://www.coolmoviejagg.pro/) Openload
-- [IWannaWatch](https://www.iwannawatch.is/) Openload, Streamango
-- [UWatchFree](https://www.uwatchfree.tv/) VidPlayer, ViDeoZa
-- [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW
-- [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2
-- [Openloadmovie](https://openloadmovie.ws/) Openload (some outdated links)
-- [cine.to](https://cine.to/) Openload, Vivo, Streamcloud, Flashx, Streamango
-- [cinebloom](https://www2.cinebloom.com) Openload, Streamango
-- [HDEUROPIX](https://topeuropix.net/) Openload, Rapidvideo
-- [openloadmovies.net](https://openloadmovies.net/) OpenLoad
-- [HD MOVIES](https://hdm.to/) OpenLoad, Streamango, Streamcherry
-- [VodLocker](https://vodlocker.tv/) Openload, Streamango
-- [StreamCouch](https://www2.streamcouch.com/) Openload, Streamango
-- [Qwemovies](https://www3.qwemovies.com/) OpenLoad
-- [movies2k](http://www.movie2k.st) Openload, Streamango, Streamcloud, Rapidvideo, Upvid
-- [xPau.se](http://xpau.se/) Googledrive
-- [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (subtitles)
-- [MegaShare](http://megashare9.su) Openload
-- [XMovies8](https://xmovies8.ru/) Openload, FServer, PTServer
-- [IceFilms](http://www.icefilms.info/) Openload, FileUpload
-- [FilmXY](https://www.filmxy.nl/) RapidVideo, Vidoza, Uptostream (offers download links)
-- [1Movies](http://1movies.nl) Openload, FServer
-- [WatchFullMovie](http://watchfullmovie.co) Openload
-- [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
-- [WatchFree](https://watchfree.at/) Openload, FServer
-- [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
-- [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
-
-## Media Centre Applications
-- [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
-- [Emby](https://emby.media/) a personal media server with apps on just about every device.
-- [Kodi](https://kodi.tv/) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
-- [OpenPHT](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
-- [Viewscreen](https://github.com/viewscreen/viewscreen) a personal video streaming server
-- [Streama](https://github.com/streamaserver/streama) Self-hosted streaming media server.
-- [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
-- [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
-- [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
-- [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
-- [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
-- [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
-- [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
-- [jellyfin](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
-
-## Stremio
-- [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
-- [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
-- [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
-- [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) An application that allows you to download any stream from Stremio (as opposed to just stream it). Also includes an internal add-on that lets users watch their downloaded content in Stremio while being offline
-- [Stremio - Watch together with friends](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
-- [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) A guide explaining how to control Stremio with your phone
-- [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) A website that allows users to customize catalogs in Stremio
-
-## Plex
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
-- [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
-- [PGBlitz.com](https://pgblitz.com/) :star2: Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD Space (Former Name: PlexGuide)
-- [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
-- [PlexPi](http://plexpi.com/) Plex Media Server for Raspberry Pi 3
-
-### Plex Plugins
-- [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
-- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
-- [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
-- [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
-- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
-- [IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
-- [HDGrandSlam.bundle](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
-- [HDHRViewerV2.bundle](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
-- [SS Plex](https://mikew.github.io/ss-plex.bundle/) Imagine if all the media scattered around the internet could be found in one collection.
-- [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
-- [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) Add what you are watching on Plex to trakt.tv
-- [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) Textless movie posters from Moviemania.io
-- [lmwt-kiss.bundle](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
-- [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
-- [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
-- [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
-- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
-- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) A website dedicated to Plex Plugins.
-
-### Plex Requests
-- [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
-- [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
-- [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
-- [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
-
-### Plex Scripts and Tools
-- [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
-- [JBOPS](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
-- [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) CLI tool to fix subtitles needed by Plex Media Center
-- [plex_autoscan](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
-- [plexupdate](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
-- [plex2netflix](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
-- [plexReport](https://github.com/bstascavage/plexReport) Scripts to generate a weekly email of new additions to Plex
-- [plex-sync](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
-- [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
-- [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) Uses the metadata held in the PlexMediaServer to tag media files
-- [PlexEmail](https://github.com/jakewaldron/PlexEmail) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
-- [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
-- [PlexAuth](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
-- [Phlex](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
-- [Plex Redirect](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
-- [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
-- [goplaxt](https://github.com/XanderStrike/goplaxt/) Full rewrite of the above, written in Go and deployable with Docker
-- [plxdwnld](https://piplong.run/plxdwnld/) Bookmarklet for downloading original files from the Plex web interface
-- [Kitana](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
-- [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
-- [NowShowing](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
-- ["My (scripted) solution to having a single Movies library for 4k and non-4k."](https://www.reddit.com/r/PleX/comments/afs8m9/my_scripted_solution_to_having_a_single_movies/) Post by /u/spazatk
-- [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
-- [Gaps](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
-- [PlexRecs](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
-- ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
-- [Varken](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
-
-### Plex Shares
-- [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
-- [Elysium](https://elysium.to/) Plex media streaming service
-
-### Plex Transcoding
-- [kube-plex](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
-- [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
-- [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
-- [nvidia-patch](https://github.com/keylase/nvidia-patch) Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
-
-### Plex Logging and Metrics
-- [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
-- [plexWatch](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
-- [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
-
-### Plex Clients
-- [RasPlex](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
-- [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
-- [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
 
 ## Kodi
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) Discussion and links pertaining to unofficial add-ons for Kodi Media Center
